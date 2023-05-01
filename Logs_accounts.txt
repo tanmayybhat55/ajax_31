@@ -1,0 +1,8 @@
+{
+    "ravenclaw156@outlook.com": {
+        "Last check": "2023-05-01",
+        "Today's points": 390,
+        "Points": 670
+    },
+    "Elapsed time": "00:09:58"
+}
