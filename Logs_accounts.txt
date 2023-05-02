@@ -1,8 +1,8 @@
 {
     "ravenclaw156@outlook.com": {
-        "Last check": "2023-05-01",
-        "Today's points": 390,
-        "Points": 670
+        "Last check": "2023-05-02",
+        "Today's points": 711,
+        "Points": 1381
     },
-    "Elapsed time": "00:09:58"
+    "Elapsed time": "00:16:51"
 }
