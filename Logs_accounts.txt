@@ -1,8 +1,8 @@
 {
     "lucifer020202@outlook.com": {
-        "Last check": "2023-05-07",
-        "Today's points": 445,
-        "Points": 3816
+        "Last check": "2023-05-08",
+        "Today's points": 475,
+        "Points": 4291
     },
-    "Elapsed time": "00:13:34"
+    "Elapsed time": "00:14:16"
 }
