@@ -8,8 +8,6 @@ on:
 # See here for more detail about cron: https://crontab.guru/examples.html
 
 
-# TRIGGER ON PUSH / PULL
-
 #  push:
 #    branches: [ "main" ]
 #  pull_request:
